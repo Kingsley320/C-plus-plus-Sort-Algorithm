@@ -40,3 +40,5 @@ int main(){
     return 0;
     
 }
+
+// August 22, didn't finish code
