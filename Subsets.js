@@ -26,3 +26,4 @@ var subsets = function(nums) {
 };
 
 console.log(subsets([1,2,3]))
+// little progress. Feeling sleepy 
