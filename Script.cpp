@@ -43,3 +43,4 @@ int main(){
 
 // August 22, didn't finish code
 // August 23, jsbin algorithms, selection sort not added yet
+// Aug 27, learnt general node knowledge today 
